@@ -1,0 +1,20 @@
+.contentBox {
+    height: 100vh;
+}
+
+.listDisplay {
+    height: 70vh;
+}
+
+h4 {
+    color: blue;
+}
+
+ul {
+    list-style: square;
+}
+
+.listBody {
+    height: 80%;
+    overflow-y: scroll;
+}
